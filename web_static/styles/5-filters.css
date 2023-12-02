@@ -3,6 +3,8 @@
     width: 25%;
     box-sizing: border-box;
     margin-left:  50px;
+    display: inline-block;
+    vertical-align: top;
 }
 .filters .locations{
     border-right: 1px solid #DDDDDD ;
