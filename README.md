@@ -131,8 +131,6 @@ Developed a style guide for consistent design.
 Added fake content for visual representation.
 No JavaScript involved in this phase.
 Data is not loaded from any external source.
-
-
 ## 👥 Author
 🚀 taboubi khaireddine<br>
 📧 Email: taboubikhairi68@gmail.com<br>
